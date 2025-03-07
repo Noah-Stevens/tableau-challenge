@@ -1,6 +1,8 @@
 # tableau-challenge
 Module 18 Tableau Challenge
 
+Tableau Public Link: https://public.tableau.com/app/profile/noah.stevens8860/viz/CitibikeBook/CitiBikeUsageDifferenceBetweenCasualandMemberUsers
+
 All of work is in the CitiBikeBook Tableau file and the analysis text file.
 
 The assignment contains three parts:
