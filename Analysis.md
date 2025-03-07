@@ -8,24 +8,24 @@ Brackets in the following meat of the analysis shows which plots and which tab i
 
 Seasonal Trends [Member vs. Casual Riders Plots]
   Casual Riders:
-    - The number of casual riders significantly increases during summer months. [All Riders By Season Plot]
-    - They make up a smaller overall proportion of Citi Bike users but tend to ride for nearly twice as long(24.00 minutes) as members(12.34 minutes). [Time & Count For Rider Type Plot]
-    - The peak riding day for casual riders is Saturday, showing a strong preference for weekend rides. [Count of All Riders For Days of The Week]
+  - The number of casual riders significantly increases during summer months. [All Riders By Season Plot]
+  - They make up a smaller overall proportion of Citi Bike users but tend to ride for nearly twice as long(24.00 minutes) as members(12.34 minutes). [Time & Count For Rider Type Plot]
+  - The peak riding day for casual riders is Saturday, showing a strong preference for weekend rides. [Count of All Riders For Days of The Week]
 
   Members:
-    - Members also increase in number during the summer but are a larger proportion of total riders in the winter. [All Riders By Season Plot]
-    - They predominantly ride on weekdays, with Wednesday being the most active day. [Count of All Riders For Days of The Week]
+  - Members also increase in number during the summer but are a larger proportion of total riders in the winter. [All Riders By Season Plot]
+  - They predominantly ride on weekdays, with Wednesday being the most active day. [Count of All Riders For Days of The Week]
 
 Trip Duration and Range [Time & Count For Rider Type Plot]
   Casual Riders:
-    - Casual users have a much wider range in trip duration than members.
-    - Based on average weekday trip time, their rides vary between 21.61 minutes (shortest) and 27.75 minutes (longest).
-    - One of their most frequent trip destinations is between Midtown Manhattan and Central Park, likely for tourism and sightseeing. [Origin vs Destination Maps]
+  - Casual users have a much wider range in trip duration than members.
+  - Based on average weekday trip time, their rides vary between 21.61 minutes (shortest) and 27.75 minutes (longest).
+  - One of their most frequent trip destinations is between Midtown Manhattan and Central Park, likely for tourism and sightseeing. [Origin vs Destination Maps]
 
   Members:
-    - Members tend to ride for shorter durations compared to casual users.
-    - Their weekday trip times range from 11.82 minutes (shortest) to 13.43 minutes (longest), showing a more consistent and predictable riding pattern.
-    - Their usage is likely driven by commuting needs rather than sightseeing.
+  - Members tend to ride for shorter durations compared to casual users.
+  - Their weekday trip times range from 11.82 minutes (shortest) to 13.43 minutes (longest), showing a more consistent and predictable riding pattern.
+  - Their usage is likely driven by commuting needs rather than sightseeing.
 
 Key Differences Between Casual and Member Riders
   1. Seasonality: Both increase in summer, but members make up a larger proportion of riders in winter.
